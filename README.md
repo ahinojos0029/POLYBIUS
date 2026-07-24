@@ -2,6 +2,8 @@
 
 Check it out on [itch.io](https://abaddriver.itch.io/polybius) and [GameJolt](https://gamejolt.com/games/polybius/1086524)
 
+Join the [Discord](https://discord.gg/dkbrKfAycq)
+
 ## Installation & Requirements
 
 1. Make sure you have Python installed along with the `pygame` library:
